@@ -1,0 +1,1 @@
+<?php echo (str_replace('d','b','d'));?>
