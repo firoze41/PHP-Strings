@@ -1,5 +1,5 @@
 
-data = '{"employees":[' +
+'{"employees":[' +
 '{"firstName":"John","lastName":"Doe" },' +
 '{"firstName":"Anna","lastName":"Smith" },' +
 '{"firstName":"Firoze","lastName":"Islam" }]}';
