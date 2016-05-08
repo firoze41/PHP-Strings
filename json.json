@@ -1,4 +1,5 @@
-{"employees":[' +
+
+var text = '{"employees":[' +
 '{"firstName":"John","lastName":"Doe" },' +
 '{"firstName":"Anna","lastName":"Smith" },' +
-'{"firstName":"Firoze","lastName":"Islam" }]}
+'{"firstName":"Firoze","lastName":"Islam" }]}';
